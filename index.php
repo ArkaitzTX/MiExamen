@@ -1,7 +1,7 @@
 <?
 
 
-$hostDB = 'MySqlArkaitzLe';
+$hostDB = 'mysqlarkaitzLe';
 $nombreDB = 'usuario';
 $usuarioDB = 'root';
 $contrasenyaDB = 'admin1234';
